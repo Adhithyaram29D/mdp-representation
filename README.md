@@ -36,8 +36,8 @@ The agent's primary goal is to ensure that only eligible students are admitted t
 * Else (Admission Denied or No Action): Reward = 0
 
 ### Graphical Representation
-![WhatsApp Image 2024-08-27 at 17 10 03_4c49692c](https://github.com/user-attachments/assets/8bfaffe7-184c-41d1-83ae-9eebe70f0f0f)
 
+![WhatsApp Image 2024-09-03 at 16 27 11_b420c869](https://github.com/user-attachments/assets/33392266-11e6-4edf-84a8-89ea5b599edd)
 
 ## PYTHON REPRESENTATION:
 ```python
